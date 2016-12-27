@@ -4,6 +4,7 @@ import os
 import openpyxl
 
 '''
+use openpyxl to open excel files
 functions that i need --
 to open file
 then to take input from the file
